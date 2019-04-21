@@ -1,0 +1,8 @@
+
+<suite name="Suite_Demo_DataDriven">
+    <test name="Test_Demo_DataDriven" >
+        <classes >
+            <class name="testngDataDriven.DataDriven_Facebook" />
+        </classes>
+    </test>
+</suite>
