@@ -1,0 +1,5 @@
+runners\TestRunner.class
+stepDefinitions\Steps.class
+managers\PageObjectManager.class
+pageObjects\Page_AddCustomer.class
+pageObjects\Page_Home.class
