@@ -1,0 +1,9 @@
+Test Case,Locator Type,Locator Value,Args....,
+open_browser,chrome,,,
+open_url,,,https://www.facebook.com/r.php?locale=en_GB,
+enter_text,name,firstname,john,
+enter_text,name,lastname,trump,
+enter_text,css,input[aria-label='Mobile number or email address'],98220,
+click_at,name,websubmit,,
+verify_value,css,input[type='submit'],value,Log In to Existing Account
+close_browser,,,,
