@@ -1,6 +1,4 @@
 # omni
 
-Master branch has only ReadMe.
+simple keyword driven framework
 
-Other branches
-1) __selenium_grid__ sample code
