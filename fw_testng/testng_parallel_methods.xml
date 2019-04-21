@@ -1,0 +1,7 @@
+<suite name="Suite_Demo_Parallel_Methods" parallel="methods" thread-count="2">
+    <test name="Test_Demo_Parallel_Methods" >
+        <classes >
+            <class name="TestNGDemo.DemoTestNG_Chrome" />
+        </classes>
+    </test>
+</suite>

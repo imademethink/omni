@@ -1,0 +1,10 @@
+
+<suite name="Suite_Demo_Parallel_Methods" parallel="methods" thread-count="2">
+    <test name="Test_Demo_Parallel_Methods" >
+        <classes >
+            <parameter name="myusername" value="user123" />
+            <parameter name="myuserpwd"   value="pwd123" />
+            <class name="TestNGDemo.DemoTestNG_Chrome2" />
+        </classes>
+    </test>
+</suite>
