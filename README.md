@@ -1,6 +1,4 @@
 # omni
 
-Master branch has only ReadMe.
+Multiple branches for your choice of selenium automation framework
 
-Other branches
-1) __selenium_grid__ sample code
