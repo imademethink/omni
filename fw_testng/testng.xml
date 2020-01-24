@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+  <test name="fw_testng">
+    <classes>
+      <class name="TestNGDemo.Example1"/>
+      <class name="TestNGDemo.Example2"/>
+    </classes>
+  </test> <!-- fw_testng -->
+</suite> <!-- Default Suite -->

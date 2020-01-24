@@ -1,0 +1,20 @@
+<suite name="Suite_Demo_Parallel_Classes" parallel="tests" thread-count="3">
+<!--    <test name="Test_Demo_Parallel_Classes" >-->
+
+        <test name="T_01">
+            <classes>
+                <class name="TestNGDemo.DemoTestNG_Chrome" />
+            </classes>
+        </test>
+        <test name="T_02">
+            <classes>
+                <class name="TestNGDemo.DemoTestNG_Chrome" />
+            </classes>
+        </test>
+
+<!--        <classes >-->
+<!--            <class name="TestNGDemo.C1" />-->
+<!--            <class name="TestNGDemo.C2" />-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
